@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\StudentDev\\Documents\\Github\\RubicServe\\RubicServe\\RubicServe\\RubicServe.csproj": {}
+    "C:\\Users\\StudentDev\\Documents\\solovev\\RubicServe\\RubicServe\\RubicServe\\RubicServe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\StudentDev\\Documents\\Github\\RubicServe\\RubicServe\\RubicServe\\RubicServe.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\solovev\\RubicServe\\RubicServe\\RubicServe\\RubicServe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\Github\\RubicServe\\RubicServe\\RubicServe\\RubicServe.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\solovev\\RubicServe\\RubicServe\\RubicServe\\RubicServe.csproj",
         "projectName": "RubicServe",
-        "projectPath": "C:\\Users\\StudentDev\\Documents\\Github\\RubicServe\\RubicServe\\RubicServe\\RubicServe.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\solovev\\RubicServe\\RubicServe\\RubicServe\\RubicServe.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StudentDev\\Documents\\Github\\RubicServe\\RubicServe\\RubicServe\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\solovev\\RubicServe\\RubicServe\\RubicServe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
